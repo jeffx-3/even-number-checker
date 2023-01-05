@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EvenNumber {
  
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
 
          System.out.println( "Here is the result of your input" ); 
         System.out.println(); 
